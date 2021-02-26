@@ -1,4 +1,4 @@
-# ChannelAug
+# The clone version repository of [ChannelAug](https://github.com/titania7777/ChannelAug)
 불확실한 환경에서의 이미지 분류 성능 향상을 위한 Mix Channel Split 데이터 증강 기법
 
 ChannelAug: A New Approach to Data Augmentation for Improving Image Classification Performance in Uncertain Environments
